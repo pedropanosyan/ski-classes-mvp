@@ -1,7 +1,7 @@
 "use client";
 
 import { useEffect, useState } from "react";
-import {Button, Flex, Table, Typography} from "antd";
+import {Button, Flex, Table} from "antd";
 import {ColumnsType, ColumnType} from "antd/es/table";
 import Title from "antd/es/typography/Title";
 import {useRouter} from "next/navigation";
@@ -21,12 +21,12 @@ interface Group {
 
 export default function GroupsPage() {
     const [groupData, setGroupData] = useState<Group[]>([]);
-    const [currentPage, setCurrentPage] = useState(1); // Main table pagination
-    const [pageSize, setPageSize] = useState(10); // Page size for main table
+    const [currentPage, setCurrentPage] = useState(1);
+    const [pageSize, setPageSize] = useState(10);
     const router = useRouter();
 
     useEffect(() => {
-        const savedGroups = JSON.parse(localStorage.getItem("formattedGroups") || "[]");
+        const savedGroups = JSON.parse(localStorage?.getItem("formattedGroups") || "[]");
         setGroupData(savedGroups);
     }, []);
 

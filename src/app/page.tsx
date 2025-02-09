@@ -93,10 +93,10 @@ export default function Home() {
 
         const data = await response.json();
 
-        const formattedData = data.groups.map((group: any[], index: number) => ({
-            key: index.toString(), // Group key
-            groupId: `Group ${index + 1}`, // Group name
-            students: group, // Students in the group
+        const formattedData = data.groups.map((group: Student[], index: number) => ({
+            key: index.toString(),
+            groupId: `Group ${index + 1}`,
+            students: group,
         }));
 
         localStorage.setItem("formattedGroups", JSON.stringify(formattedData));
@@ -104,17 +104,20 @@ export default function Home() {
         router.push("/groups");
     }
 
+    const existingGroups = typeof window !== "undefined"
+        ? localStorage.getItem("formattedGroups")
+        : null;
   return (
       <>
           <div style={{ padding: '32px 64px'}}>
               <Flex vertical gap={'16px'}>
               <Flex gap={'16px'}>
                   <Button type={'primary'} onClick={() => setOpen(true)}>
-                      {localStorage.getItem("formattedGroups") ?
+                      {existingGroups ?
                           'Regenerate classes' : 'Generate classes'
                       }
                   </Button>
-                  {localStorage.getItem("formattedGroups") && (
+                  {existingGroups && (
                         <Button
                             onClick={() => router.push("/groups")}
                         >

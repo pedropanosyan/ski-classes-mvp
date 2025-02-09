@@ -1,7 +1,7 @@
 "use client";
 
 import React from "react";
-import { Table, Skeleton, Pagination, Select, Space } from "antd";
+import { Table, Pagination, Select, Space } from "antd";
 import { ColumnType } from "antd/es/table";
 
 interface TableSkeletonProps<T extends object> {
