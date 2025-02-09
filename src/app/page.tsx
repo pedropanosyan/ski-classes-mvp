@@ -26,6 +26,7 @@ export default function Home() {
     const [size, setSize] = useState(6);
     const [students, setStudents] = useState<Student[]>([]);
     const [loading, setLoading] = useState(true);
+    const [loadingGroups, setLoadingGroups] = useState(false);
 
     const [pagination, setPagination] = useState({
         current: 1,
@@ -85,6 +86,7 @@ export default function Home() {
     ];
 
     const handleGenerateClasses = async () => {
+        setLoadingGroups(true);
         const response = await fetch("/api/group-students", {
             method: "POST",
             headers: { "Content-Type": "application/json" },
@@ -100,8 +102,9 @@ export default function Home() {
         }));
 
         localStorage.setItem("formattedGroups", JSON.stringify(formattedData));
-
+        setLoadingGroups(false);
         router.push("/groups");
+
     }
 
     const existingGroups = typeof window !== "undefined"
@@ -145,7 +148,7 @@ export default function Home() {
               title={'Generate classes'}
               open={open}
               onCancel={() => setOpen(false)}
-              okButtonProps={{ disabled : size < 1}}
+              okButtonProps={{ disabled : size < 1, loading: loadingGroups }}
               onOk={handleGenerateClasses}
           >
                 <div>
