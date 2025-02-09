@@ -1,0 +1,401 @@
+Student_ID,Age,First_Time_Skiing,Able_To_Stop,Able_To_Turn,Able_To_Match_Skis_Across_Hill,Able_To_Match_Skis_Shaping_Turn,Last_Terrain_Skied,Skiing_Experience_Years,Risk_Preferences,Last_Time_Since_Skiing
+1,11,Yes,No,No,No,No,,0,Green,None
+2,8,No,No,No,No,No,,3,Green,6 months
+3,17,Yes,No,No,No,No,,0,Green,None
+4,15,Yes,No,No,No,No,,0,Red,None
+5,12,No,Yes,Yes,Yes,No,,7,Yellow,3 months
+6,17,No,Yes,Yes,Yes,No,,7,Green,6 months
+7,9,No,Yes,Yes,Yes,Yes,Black,0,Green,None
+8,11,No,Yes,Yes,No,No,,2,Yellow,3 months
+9,14,No,No,No,No,No,,9,Green,3 months
+10,7,Yes,No,No,No,No,,0,Yellow,None
+11,11,Yes,No,No,No,No,,0,Yellow,None
+12,15,No,Yes,No,No,No,,5,Yellow,6 months
+13,15,No,Yes,No,No,No,,3,Yellow,3 months
+14,12,Yes,No,No,No,No,,0,Yellow,None
+15,9,Yes,No,No,No,No,,0,Red,None
+16,8,No,Yes,Yes,Yes,No,,7,Green,1 year
+17,12,No,Yes,Yes,Yes,No,,5,Red,3 months
+18,12,Yes,No,No,No,No,,0,Green,None
+19,7,No,Yes,Yes,No,No,,8,Red,2 years
+20,10,No,Yes,Yes,Yes,No,,0,Yellow,None
+21,9,Yes,No,No,No,No,,0,Green,None
+22,6,No,Yes,Yes,No,No,,5,Green,3 months
+23,12,Yes,No,No,No,No,,0,Red,None
+24,16,No,No,No,No,No,,5,Red,6 months
+25,10,Yes,No,No,No,No,,0,Green,None
+26,6,Yes,No,No,No,No,,0,Red,None
+27,16,No,Yes,Yes,No,No,,3,Red,2 years
+28,9,Yes,No,No,No,No,,0,Red,None
+29,5,Yes,No,No,No,No,,0,Yellow,None
+30,16,No,No,No,No,No,,8,Yellow,6 months
+31,14,Yes,No,No,No,No,,0,Red,None
+32,10,No,Yes,Yes,No,No,,2,Red,2 years
+33,17,Yes,No,No,No,No,,0,Yellow,None
+34,16,No,Yes,Yes,Yes,No,,7,Yellow,3 months
+35,13,No,Yes,Yes,Yes,No,,4,Green,2 years
+36,5,No,No,No,No,No,,3,Green,1 year
+37,15,No,Yes,No,No,No,,7,Yellow,3 months
+38,15,Yes,No,No,No,No,,0,Red,None
+39,14,No,Yes,No,No,No,,1,Red,6 months
+40,16,No,Yes,Yes,No,No,,3,Red,3 months
+41,16,No,No,No,No,No,,3,Red,3 months
+42,7,Yes,No,No,No,No,,0,Green,None
+43,16,Yes,No,No,No,No,,0,Yellow,None
+44,11,No,Yes,Yes,No,No,,0,Red,None
+45,8,No,Yes,No,No,No,,7,Green,1 year
+46,13,No,Yes,Yes,No,No,,5,Red,3 months
+47,7,No,Yes,Yes,Yes,Yes,Double Black,2,Yellow,1 year
+48,9,Yes,No,No,No,No,,0,Green,None
+49,7,No,Yes,Yes,Yes,No,,1,Yellow,3 months
+50,11,No,Yes,Yes,Yes,Yes,Black,7,Yellow,2 years
+51,9,No,Yes,Yes,No,No,,9,Green,6 months
+52,13,Yes,No,No,No,No,,0,Green,None
+53,11,No,Yes,Yes,No,No,,4,Green,2 years
+54,6,No,Yes,Yes,Yes,Yes,Double Black,5,Green,2 years
+55,8,Yes,No,No,No,No,,0,Green,None
+56,13,Yes,No,No,No,No,,0,Green,None
+57,16,No,Yes,Yes,Yes,Yes,Black,3,Green,2 years
+58,6,No,Yes,No,No,No,,2,Red,2 years
+59,14,Yes,No,No,No,No,,0,Yellow,None
+60,13,No,Yes,No,No,No,,0,Green,None
+61,14,No,Yes,Yes,Yes,No,,3,Red,2 years
+62,9,No,No,No,No,No,,0,Red,None
+63,6,Yes,No,No,No,No,,0,Red,None
+64,8,Yes,No,No,No,No,,0,Yellow,None
+65,16,Yes,No,No,No,No,,0,Green,None
+66,16,No,Yes,No,No,No,,4,Red,6 months
+67,11,No,Yes,No,No,No,,3,Yellow,2 years
+68,16,Yes,No,No,No,No,,0,Yellow,None
+69,17,No,Yes,Yes,Yes,Yes,Double Black,0,Yellow,None
+70,12,No,Yes,No,No,No,,5,Red,1 year
+71,7,Yes,No,No,No,No,,0,Green,None
+72,5,Yes,No,No,No,No,,0,Red,None
+73,8,Yes,No,No,No,No,,0,Red,None
+74,6,No,Yes,Yes,Yes,No,,4,Green,3 months
+75,12,No,Yes,No,No,No,,6,Green,6 months
+76,8,No,Yes,Yes,Yes,No,,9,Green,2 years
+77,6,No,Yes,Yes,Yes,No,,1,Yellow,None
+78,10,No,Yes,No,No,No,,7,Green,6 months
+79,10,No,Yes,Yes,No,No,,1,Red,None
+80,14,Yes,No,No,No,No,,0,Green,None
+81,8,No,Yes,Yes,Yes,Yes,Blue,0,Red,None
+82,10,Yes,No,No,No,No,,0,Yellow,None
+83,17,Yes,No,No,No,No,,0,Red,None
+84,6,No,Yes,No,No,No,,0,Red,None
+85,14,Yes,No,No,No,No,,0,Green,None
+86,16,Yes,No,No,No,No,,0,Green,None
+87,6,No,Yes,Yes,No,No,,5,Red,1 year
+88,14,No,Yes,No,No,No,,6,Green,1 year
+89,8,Yes,No,No,No,No,,0,Yellow,None
+90,12,Yes,No,No,No,No,,0,Yellow,None
+91,11,No,No,No,No,No,,4,Green,1 year
+92,16,No,Yes,Yes,No,No,,1,Yellow,None
+93,13,No,Yes,No,No,No,,4,Green,2 years
+94,12,No,Yes,Yes,Yes,No,,7,Red,2 years
+95,9,No,Yes,Yes,Yes,No,,8,Red,6 months
+96,17,Yes,No,No,No,No,,0,Yellow,None
+97,6,No,No,No,No,No,,2,Green,2 years
+98,9,No,Yes,Yes,Yes,No,,2,Green,6 months
+99,12,Yes,No,No,No,No,,0,Yellow,None
+100,14,Yes,No,No,No,No,,0,Red,None
+101,13,No,Yes,Yes,Yes,Yes,Green,5,Yellow,1 year
+102,16,No,Yes,Yes,Yes,No,,7,Red,1 year
+103,16,No,Yes,Yes,Yes,No,,8,Green,6 months
+104,16,No,Yes,Yes,No,No,,4,Red,6 months
+105,17,No,Yes,Yes,No,No,,2,Yellow,1 year
+106,13,No,Yes,Yes,No,No,,4,Green,2 years
+107,17,No,Yes,Yes,Yes,Yes,Black,4,Yellow,2 years
+108,17,No,Yes,Yes,Yes,No,,4,Yellow,3 months
+109,5,No,Yes,Yes,No,No,,2,Red,2 years
+110,13,No,Yes,Yes,Yes,Yes,Blue,9,Yellow,6 months
+111,11,No,Yes,Yes,Yes,No,,3,Red,6 months
+112,13,No,Yes,Yes,Yes,Yes,Green,8,Green,2 years
+113,12,Yes,No,No,No,No,,0,Red,None
+114,5,No,Yes,Yes,Yes,No,,8,Green,1 year
+115,16,No,Yes,Yes,No,No,,1,Red,1 year
+116,12,No,Yes,Yes,No,No,,7,Yellow,2 years
+117,12,No,No,No,No,No,,7,Red,1 year
+118,15,No,Yes,Yes,Yes,No,,6,Red,1 year
+119,7,Yes,No,No,No,No,,0,Green,None
+120,5,Yes,No,No,No,No,,0,Yellow,None
+121,12,Yes,No,No,No,No,,0,Red,None
+122,7,No,No,No,No,No,,0,Yellow,None
+123,7,Yes,No,No,No,No,,0,Red,None
+124,5,No,Yes,No,No,No,,0,Red,None
+125,15,No,Yes,Yes,Yes,No,,8,Yellow,6 months
+126,9,No,Yes,No,No,No,,0,Red,None
+127,14,No,Yes,Yes,Yes,Yes,Blue,0,Yellow,None
+128,11,No,Yes,Yes,Yes,Yes,Green,6,Red,1 year
+129,14,No,Yes,Yes,Yes,No,,1,Green,6 months
+130,13,Yes,No,No,No,No,,0,Yellow,None
+131,16,No,Yes,No,No,No,,7,Red,3 months
+132,11,No,Yes,No,No,No,,7,Red,1 year
+133,13,No,No,No,No,No,,2,Green,3 months
+134,12,No,Yes,No,No,No,,6,Yellow,2 years
+135,16,Yes,No,No,No,No,,0,Red,None
+136,6,No,Yes,No,No,No,,5,Green,6 months
+137,5,No,Yes,No,No,No,,5,Red,2 years
+138,11,No,No,No,No,No,,2,Yellow,6 months
+139,11,No,Yes,No,No,No,,6,Red,1 year
+140,12,No,Yes,Yes,Yes,Yes,Blue,2,Red,2 years
+141,9,No,Yes,No,No,No,,7,Red,3 months
+142,7,No,Yes,No,No,No,,9,Red,2 years
+143,16,Yes,No,No,No,No,,0,Green,None
+144,12,Yes,No,No,No,No,,0,Green,None
+145,10,No,Yes,Yes,Yes,No,,3,Yellow,2 years
+146,15,No,Yes,No,No,No,,6,Green,2 years
+147,7,No,Yes,Yes,No,No,,3,Green,6 months
+148,5,Yes,No,No,No,No,,0,Yellow,None
+149,7,No,Yes,Yes,Yes,Yes,Double Black,8,Green,2 years
+150,9,No,Yes,No,No,No,,0,Green,None
+151,7,Yes,No,No,No,No,,0,Yellow,None
+152,5,No,Yes,No,No,No,,6,Yellow,2 years
+153,9,No,Yes,Yes,Yes,Yes,Double Black,0,Yellow,None
+154,14,No,No,No,No,No,,3,Red,1 year
+155,11,No,Yes,Yes,No,No,,5,Red,6 months
+156,11,Yes,No,No,No,No,,0,Yellow,None
+157,15,Yes,No,No,No,No,,0,Yellow,None
+158,13,Yes,No,No,No,No,,0,Yellow,None
+159,14,No,Yes,Yes,Yes,Yes,Green,9,Red,1 year
+160,14,No,Yes,No,No,No,,0,Red,None
+161,16,No,Yes,Yes,No,No,,5,Green,6 months
+162,17,No,Yes,Yes,Yes,Yes,Black,5,Green,2 years
+163,7,No,Yes,Yes,No,No,,3,Yellow,1 year
+164,11,No,Yes,Yes,Yes,Yes,Green,7,Red,1 year
+165,5,No,Yes,Yes,Yes,Yes,Double Black,3,Red,3 months
+166,8,Yes,No,No,No,No,,0,Red,None
+167,17,Yes,No,No,No,No,,0,Yellow,None
+168,8,No,Yes,Yes,Yes,No,,4,Green,3 months
+169,9,No,Yes,Yes,Yes,No,,3,Yellow,1 year
+170,11,Yes,No,No,No,No,,0,Green,None
+171,11,No,Yes,Yes,Yes,No,,2,Green,1 year
+172,17,No,Yes,Yes,Yes,No,,2,Yellow,1 year
+173,15,Yes,No,No,No,No,,0,Green,None
+174,17,No,Yes,No,No,No,,3,Green,1 year
+175,8,No,Yes,Yes,Yes,Yes,Green,9,Red,1 year
+176,17,No,Yes,Yes,Yes,No,,4,Green,3 months
+177,11,Yes,No,No,No,No,,0,Yellow,None
+178,15,No,Yes,Yes,Yes,Yes,Double Black,9,Yellow,6 months
+179,7,No,Yes,No,No,No,,7,Green,2 years
+180,10,No,Yes,No,No,No,,5,Red,3 months
+181,16,No,Yes,No,No,No,,5,Red,6 months
+182,6,No,Yes,Yes,No,No,,7,Green,3 months
+183,14,No,No,No,No,No,,6,Green,3 months
+184,17,No,Yes,Yes,Yes,No,,9,Yellow,1 year
+185,13,No,Yes,No,No,No,,9,Green,6 months
+186,9,No,Yes,Yes,Yes,Yes,Green,7,Red,1 year
+187,10,Yes,No,No,No,No,,0,Green,None
+188,16,No,Yes,Yes,Yes,Yes,Double Black,8,Yellow,3 months
+189,16,No,No,No,No,No,,0,Yellow,None
+190,16,Yes,No,No,No,No,,0,Yellow,None
+191,16,No,Yes,Yes,Yes,No,,3,Yellow,6 months
+192,8,Yes,No,No,No,No,,0,Yellow,None
+193,15,No,Yes,No,No,No,,4,Green,2 years
+194,14,No,Yes,Yes,Yes,Yes,Black,7,Green,2 years
+195,11,No,Yes,Yes,No,No,,4,Green,2 years
+196,16,Yes,No,No,No,No,,0,Green,None
+197,13,No,Yes,Yes,Yes,Yes,Blue,9,Yellow,2 years
+198,11,No,Yes,Yes,Yes,Yes,Double Black,0,Red,None
+199,5,No,No,No,No,No,,9,Green,2 years
+200,5,No,Yes,No,No,No,,8,Red,1 year
+201,13,No,Yes,Yes,Yes,Yes,Blue,5,Green,3 months
+202,15,No,Yes,Yes,No,No,,2,Green,3 months
+203,13,No,Yes,No,No,No,,7,Red,3 months
+204,8,Yes,No,No,No,No,,0,Yellow,None
+205,17,No,Yes,Yes,Yes,Yes,Green,5,Green,3 months
+206,13,No,Yes,Yes,No,No,,6,Green,2 years
+207,7,Yes,No,No,No,No,,0,Green,None
+208,11,No,Yes,Yes,Yes,No,,4,Red,2 years
+209,10,No,Yes,Yes,Yes,Yes,Green,4,Yellow,1 year
+210,12,No,Yes,Yes,No,No,,9,Red,1 year
+211,15,No,Yes,Yes,Yes,No,,3,Red,1 year
+212,13,No,Yes,Yes,No,No,,5,Yellow,1 year
+213,9,No,Yes,Yes,No,No,,6,Red,3 months
+214,5,No,Yes,No,No,No,,8,Yellow,3 months
+215,7,Yes,No,No,No,No,,0,Green,None
+216,14,No,Yes,Yes,Yes,Yes,Double Black,5,Yellow,6 months
+217,16,No,Yes,No,No,No,,6,Green,2 years
+218,12,Yes,No,No,No,No,,0,Red,None
+219,15,No,No,No,No,No,,7,Red,1 year
+220,10,No,Yes,Yes,Yes,No,,4,Green,3 months
+221,12,No,Yes,Yes,Yes,No,,8,Red,1 year
+222,13,No,Yes,Yes,Yes,No,,4,Yellow,1 year
+223,8,No,Yes,Yes,No,No,,8,Green,2 years
+224,5,No,No,No,No,No,,9,Red,3 months
+225,5,Yes,No,No,No,No,,0,Green,None
+226,14,No,Yes,No,No,No,,8,Yellow,6 months
+227,8,No,Yes,Yes,Yes,Yes,Green,4,Yellow,6 months
+228,16,Yes,No,No,No,No,,0,Red,None
+229,11,No,No,No,No,No,,8,Yellow,3 months
+230,6,Yes,No,No,No,No,,0,Green,None
+231,7,Yes,No,No,No,No,,0,Yellow,None
+232,5,Yes,No,No,No,No,,0,Green,None
+233,9,Yes,No,No,No,No,,0,Green,None
+234,5,No,Yes,Yes,No,No,,5,Yellow,2 years
+235,12,No,Yes,Yes,No,No,,1,Red,6 months
+236,5,No,Yes,Yes,No,No,,6,Yellow,2 years
+237,15,No,Yes,Yes,Yes,No,,1,Green,6 months
+238,5,No,Yes,No,No,No,,1,Green,3 months
+239,6,No,Yes,Yes,No,No,,0,Yellow,None
+240,6,Yes,No,No,No,No,,0,Red,None
+241,16,No,Yes,No,No,No,,5,Red,2 years
+242,10,Yes,No,No,No,No,,0,Green,None
+243,11,No,Yes,Yes,Yes,Yes,Black,8,Green,2 years
+244,9,Yes,No,No,No,No,,0,Red,None
+245,5,No,Yes,Yes,No,No,,3,Yellow,1 year
+246,5,No,Yes,Yes,Yes,No,,5,Green,1 year
+247,7,Yes,No,No,No,No,,0,Green,None
+248,6,Yes,No,No,No,No,,0,Red,None
+249,9,No,Yes,Yes,Yes,No,,0,Yellow,None
+250,16,Yes,No,No,No,No,,0,Red,None
+251,14,No,Yes,Yes,Yes,No,,5,Yellow,2 years
+252,10,Yes,No,No,No,No,,0,Yellow,None
+253,11,Yes,No,No,No,No,,0,Yellow,None
+254,8,No,Yes,Yes,Yes,No,,4,Green,3 months
+255,11,No,Yes,Yes,No,No,,0,Red,None
+256,15,Yes,No,No,No,No,,0,Red,None
+257,12,Yes,No,No,No,No,,0,Yellow,None
+258,15,Yes,No,No,No,No,,0,Green,None
+259,5,No,Yes,No,No,No,,8,Green,6 months
+260,10,No,Yes,Yes,Yes,Yes,Blue,0,Red,None
+261,12,No,No,No,No,No,,3,Green,1 year
+262,9,No,Yes,No,No,No,,5,Green,3 months
+263,8,Yes,No,No,No,No,,0,Yellow,None
+264,6,No,Yes,Yes,Yes,No,,7,Green,6 months
+265,10,No,Yes,Yes,Yes,No,,0,Yellow,None
+266,10,Yes,No,No,No,No,,0,Red,None
+267,15,No,Yes,Yes,Yes,Yes,Blue,0,Green,None
+268,5,No,Yes,No,No,No,,6,Red,1 year
+269,13,No,Yes,Yes,No,No,,2,Red,6 months
+270,16,No,Yes,Yes,Yes,Yes,Green,7,Green,3 months
+271,15,No,No,No,No,No,,2,Green,1 year
+272,10,No,Yes,Yes,Yes,No,,0,Red,None
+273,17,No,Yes,No,No,No,,7,Green,2 years
+274,7,No,Yes,Yes,No,No,,2,Yellow,2 years
+275,8,No,Yes,Yes,Yes,Yes,Green,1,Yellow,6 months
+276,16,Yes,No,No,No,No,,0,Green,None
+277,15,Yes,No,No,No,No,,0,Red,None
+278,8,Yes,No,No,No,No,,0,Green,None
+279,7,Yes,No,No,No,No,,0,Green,None
+280,14,Yes,No,No,No,No,,0,Red,None
+281,7,No,Yes,Yes,Yes,Yes,Black,0,Red,None
+282,7,No,No,No,No,No,,1,Yellow,None
+283,8,No,No,No,No,No,,5,Red,1 year
+284,11,No,Yes,Yes,Yes,Yes,Double Black,2,Yellow,6 months
+285,8,No,Yes,No,No,No,,3,Red,3 months
+286,13,No,Yes,No,No,No,,0,Green,None
+287,5,No,Yes,Yes,Yes,Yes,Black,7,Yellow,6 months
+288,12,No,Yes,No,No,No,,6,Yellow,2 years
+289,11,Yes,No,No,No,No,,0,Yellow,None
+290,6,Yes,No,No,No,No,,0,Green,None
+291,12,Yes,No,No,No,No,,0,Green,None
+292,5,Yes,No,No,No,No,,0,Green,None
+293,15,Yes,No,No,No,No,,0,Green,None
+294,16,No,No,No,No,No,,1,Green,1 year
+295,13,No,Yes,Yes,No,No,,0,Yellow,None
+296,13,Yes,No,No,No,No,,0,Green,None
+297,6,Yes,No,No,No,No,,0,Yellow,None
+298,11,Yes,No,No,No,No,,0,Green,None
+299,14,No,Yes,Yes,No,No,,6,Red,3 months
+300,7,No,Yes,Yes,Yes,Yes,Blue,7,Yellow,1 year
+301,11,No,Yes,Yes,No,No,,0,Red,None
+302,16,No,Yes,Yes,No,No,,8,Yellow,3 months
+303,14,No,Yes,No,No,No,,6,Red,1 year
+304,13,No,Yes,Yes,Yes,No,,2,Green,1 year
+305,8,Yes,No,No,No,No,,0,Green,None
+306,16,No,No,No,No,No,,6,Green,2 years
+307,5,No,Yes,Yes,Yes,No,,7,Yellow,3 months
+308,6,No,Yes,No,No,No,,5,Red,6 months
+309,5,No,Yes,Yes,Yes,Yes,Double Black,8,Green,1 year
+310,16,No,Yes,Yes,No,No,,4,Red,2 years
+311,9,No,Yes,No,No,No,,2,Red,6 months
+312,9,No,Yes,Yes,Yes,No,,2,Green,3 months
+313,15,No,Yes,Yes,Yes,No,,0,Green,None
+314,11,No,Yes,Yes,No,No,,7,Red,3 months
+315,13,No,Yes,Yes,No,No,,1,Green,1 year
+316,13,No,Yes,Yes,Yes,No,,2,Green,2 years
+317,7,No,Yes,Yes,No,No,,7,Green,2 years
+318,7,No,Yes,Yes,Yes,No,,7,Yellow,2 years
+319,7,Yes,No,No,No,No,,0,Red,None
+320,8,No,Yes,No,No,No,,3,Red,3 months
+321,12,No,Yes,Yes,Yes,No,,4,Yellow,1 year
+322,10,No,Yes,Yes,No,No,,5,Red,2 years
+323,12,No,Yes,No,No,No,,4,Green,1 year
+324,5,Yes,No,No,No,No,,0,Red,None
+325,12,No,Yes,Yes,Yes,Yes,Double Black,1,Green,1 year
+326,8,No,Yes,Yes,Yes,No,,6,Yellow,3 months
+327,15,No,Yes,Yes,No,No,,9,Green,6 months
+328,5,No,No,No,No,No,,6,Red,6 months
+329,12,No,Yes,Yes,Yes,No,,0,Red,None
+330,8,No,Yes,Yes,No,No,,6,Red,6 months
+331,10,Yes,No,No,No,No,,0,Yellow,None
+332,12,Yes,No,No,No,No,,0,Yellow,None
+333,8,No,Yes,No,No,No,,2,Red,1 year
+334,7,No,Yes,Yes,No,No,,3,Green,2 years
+335,13,Yes,No,No,No,No,,0,Yellow,None
+336,7,No,Yes,Yes,No,No,,1,Red,3 months
+337,13,No,No,No,No,No,,0,Red,None
+338,17,No,Yes,No,No,No,,4,Yellow,2 years
+339,6,No,Yes,Yes,Yes,No,,3,Yellow,3 months
+340,6,No,Yes,Yes,Yes,No,,9,Yellow,6 months
+341,6,No,Yes,No,No,No,,1,Green,None
+342,10,No,Yes,Yes,No,No,,2,Green,1 year
+343,7,Yes,No,No,No,No,,0,Red,None
+344,17,No,Yes,No,No,No,,6,Yellow,1 year
+345,13,No,Yes,Yes,Yes,No,,3,Green,6 months
+346,8,No,Yes,Yes,Yes,No,,4,Yellow,3 months
+347,5,No,Yes,Yes,No,No,,4,Red,6 months
+348,8,No,Yes,Yes,Yes,No,,5,Green,6 months
+349,5,No,Yes,Yes,No,No,,8,Green,2 years
+350,9,Yes,No,No,No,No,,0,Green,None
+351,8,No,Yes,Yes,No,No,,4,Red,3 months
+352,12,No,Yes,Yes,Yes,No,,2,Yellow,6 months
+353,12,No,Yes,Yes,No,No,,3,Green,6 months
+354,11,Yes,No,No,No,No,,0,Red,None
+355,7,No,Yes,Yes,Yes,Yes,Green,5,Yellow,6 months
+356,5,No,Yes,Yes,No,No,,7,Red,2 years
+357,5,No,Yes,Yes,No,No,,0,Yellow,None
+358,16,No,Yes,No,No,No,,9,Red,2 years
+359,15,Yes,No,No,No,No,,0,Yellow,None
+360,7,No,Yes,Yes,No,No,,6,Green,6 months
+361,10,No,Yes,Yes,Yes,No,,0,Yellow,None
+362,11,Yes,No,No,No,No,,0,Red,None
+363,10,No,Yes,Yes,No,No,,2,Red,3 months
+364,10,No,Yes,Yes,Yes,No,,0,Yellow,None
+365,10,No,Yes,Yes,Yes,No,,8,Green,1 year
+366,17,Yes,No,No,No,No,,0,Green,None
+367,7,No,Yes,No,No,No,,1,Yellow,1 year
+368,10,Yes,No,No,No,No,,0,Yellow,None
+369,12,No,No,No,No,No,,6,Red,2 years
+370,15,Yes,No,No,No,No,,0,Green,None
+371,15,No,Yes,No,No,No,,5,Yellow,6 months
+372,6,No,Yes,No,No,No,,5,Green,1 year
+373,9,No,Yes,No,No,No,,3,Yellow,2 years
+374,5,No,Yes,Yes,Yes,Yes,Blue,9,Yellow,1 year
+375,16,Yes,No,No,No,No,,0,Green,None
+376,5,No,No,No,No,No,,1,Yellow,6 months
+377,9,No,Yes,Yes,No,No,,6,Yellow,6 months
+378,16,No,Yes,Yes,Yes,No,,4,Red,2 years
+379,17,Yes,No,No,No,No,,0,Yellow,None
+380,7,Yes,No,No,No,No,,0,Yellow,None
+381,8,Yes,No,No,No,No,,0,Yellow,None
+382,7,No,No,No,No,No,,9,Red,6 months
+383,5,No,Yes,No,No,No,,3,Green,6 months
+384,5,No,Yes,No,No,No,,8,Red,2 years
+385,16,Yes,No,No,No,No,,0,Red,None
+386,16,No,Yes,No,No,No,,1,Green,None
+387,17,No,Yes,No,No,No,,0,Red,None
+388,9,No,Yes,Yes,No,No,,4,Green,6 months
+389,10,Yes,No,No,No,No,,0,Red,None
+390,7,No,Yes,No,No,No,,5,Green,6 months
+391,16,Yes,No,No,No,No,,0,Yellow,None
+392,13,No,Yes,Yes,Yes,Yes,Blue,6,Red,6 months
+393,9,No,Yes,Yes,Yes,No,,4,Red,2 years
+394,12,Yes,No,No,No,No,,0,Red,None
+395,17,No,Yes,Yes,No,No,,5,Red,6 months
+396,5,Yes,No,No,No,No,,0,Yellow,None
+397,9,No,Yes,Yes,No,No,,8,Red,2 years
+398,7,No,No,No,No,No,,5,Yellow,2 years
+399,16,No,Yes,Yes,No,No,,7,Yellow,2 years
+400,5,No,Yes,Yes,No,No,,1,Yellow,None
